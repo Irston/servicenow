@@ -24,7 +24,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_312603_innovate_innovate" name="x_312603_innovate_innovate" sys_domain="global" view="Default view">770c573e4f5f23006c3ef9aba310c7d7</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_312603_innovate_innovate" sys_domain="global" view="Default view">b70c173e4f5f23006c3ef9aba310c76d</sys_ui_section>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_312603_innovate_innovate" sys_domain="global" view="Default view">b70c173e4f5f23006c3ef9aba310c76d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-02-02 13:04:58</sys_updated_on>
         </sys_ui_form_section>
